@@ -1,0 +1,36 @@
+{
+  "name": "polymer-file",
+  "authors": [
+    "Spencer Elliott <me@elliottsj.com>"
+  ],
+  "description": "A Polymer interface for FileReader",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "filereader"
+  ],
+  "main": "polymer-file.html",
+  "license": "MIT",
+  "homepage": "https://github.com/elliottsj/polymer-file/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.2"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.5"
+  },
+  "_release": "312ad0c1e3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "312ad0c1e33fbeb9fad61e92c8dd2ac73fd1acce"
+  },
+  "_source": "git://github.com/elliottsj/polymer-file.git",
+  "_target": "master",
+  "_originalSource": "elliottsj/polymer-file",
+  "_direct": true
+}
