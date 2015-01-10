@@ -1,5 +1,6 @@
 dependencies:
   override:
+    - bower install
     - npm install -g web-component-tester
 
 test:
